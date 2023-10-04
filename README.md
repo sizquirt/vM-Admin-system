@@ -1,2 +1,2 @@
 This system is partially based off the open-source project, Adonis by Sceleratis.
-Remain credits to both me and Sceleratis.
+Give the original Adonis some love! [Adonis](https://github.com/Sceleratis/Adonis)
